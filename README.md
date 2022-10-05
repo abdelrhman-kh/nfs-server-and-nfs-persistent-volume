@@ -5,7 +5,7 @@
 
 ## create a `persistentvolumeclaim.yml` to create Persistent Volume Claim
 
-## latest follow example how to use it
+## latest follow example how to use it with deployment
 
 ```yaml
     spec:
